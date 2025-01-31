@@ -1,53 +1,89 @@
-Sure! Here's a profile README template for your GitHub profile:
+<b><h2>Hola, I'm <a href="https://dakshp07.github.io/">Daksh Paleria!</a></h2></b>
 
-```markdown
-# Hi there, I'm IronAKM3466! 👋
+<a href="https://www.linkedin.com/in/daksh-paleria-606211190/">
+  <img align="left" alt="Daksh's LinkdeIN" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" />
+</a>
+<a href="https://www.instagram.com/dakshp_07/">
+  <img align="left" alt="Daksh's Instagram" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" />
+</a>
+<a href="https://twitter.com/dakshp07">
+  <img align="left" alt="Daksh's Twitter" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg" />
+</a>
+<a href="mailto:dpaleria@gmail.com">
+  <img align="left" alt="Mail Daksh" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" />
+</a>
+<a href="https://leetcode.com/dakshp07/">
+  <img align="left" alt="Daksh's Leetcode" width="22px" src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=avif&w=512" />
+</a>
+<a href="https://dakshp07.github.io/">
+  <img align="left" alt="Daksh's Sourcerer" width="22px" src="https://img.icons8.com/?size=512&id=LoyAjcvVKv1K&format=png"  />
+</a>
+<a href="https://dakshp07.medium.com/">
+  <img align="left" alt="Medium Daksh" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Medium.svg" />
+</a>
 
-Welcome to my GitHub profile! I'm a passionate developer interested in exploring various technologies and contributing to open source projects.
 
-## 🧑‍💻 About Me
+<br />
+<br />
 
-- 🔭 I’m currently working on various interesting projects.
-- 🌱 I’m currently learning advanced algorithms and data structures.
-- 👯 I’m looking to collaborate on open source projects.
-- 🤔 I’m looking for help with cloud computing and DevOps practices.
-- 💬 Ask me about Python, JavaScript, and Web Development.
-- 📫 How to reach me: [Your Email](mailto:youremail@example.com)
-- ⚡ Fun fact: I love playing chess and solving puzzles.
 
-## 🛠️ Technologies & Tools
 
-- Languages: Python, JavaScript, C++
-- Frameworks: React, Node.js, Django
-- Tools: Git, Docker, Kubernetes
-- Databases: MySQL, MongoDB, PostgreSQL
-- Cloud: AWS, Azure, Google Cloud
+Hi, I'm Daksh Paleria, a Android Developer (Flutter) 👨‍💻, Frontend Web Developer from India, Currently I'm a Core Committee Member At IET-VIT, A Technical Team Member At Team Fourth Dimension, A Google Summer of Code 2021 (GSoC '21) Student Developer at Cuneiform Digital Library Initiative (CDLI). I'm also into blockchain which helped me get through Summer of Bitcoin 2022 (SoB '22) at bcoin org and Yes I Am A Student Completing My BTech 👨‍🎓(2019-23) Graduation in CSE from [VIT](https://vit.ac.in/). Beside's Programming, I Enjoy Eating Food And Traveling.
 
-## 📈 GitHub Stats
+<img style="float: right" alt="GIF"  width="400"  height="350"  src="https://c.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif">
+ 
+<div style="clear: right">
 
-![IronAKM3466's GitHub stats](https://github-readme-stats.vercel.app/api?username=IronAKM3466&show_icons=true&theme=radical)
+  **Talking about Personal Stuffs:**
 
-## 🚀 Projects
+- 👨🏽‍💻 Looking For **SDE Roles**;
+- 🌱 I’m Currently Working On **my problem solving skills**; 
+- 👯 Open For **Collaboration**;
+- 💬 Ask Me About Anything, I Am Happy To **Help**;
+- 📫 How To Reach Me: dpaleria@gmail.com;
+  </div>
 
-Here are a few projects I've been working on:
+**Languages and Tools:**  
 
-- [Project 1](https://github.com/IronAKM3466/project1): A brief description of your project.
-- [Project 2](https://github.com/IronAKM3466/project2): A brief description of your project.
-- [Project 3](https://github.com/IronAKM3466/project3): A brief description of your project.
 
-## 📝 Blog Posts
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="35" src="https://www.pngitem.com/pimgs/m/480-4800518_file-dart-logo-dart-programming-language-logo-hd.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="35" src="https://openjsf.org/wp-content/uploads/sites/84/2019/10/jquery-logo-vertical_large_square.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="35" src="https://specials-images.forbesimg.com/imageserve/5e7cce1921695a000666cc29/960x0.jpg?fit=scale"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="35" src="https://www.adobe.com/content/dam/cc/icons/xd.svg"></code>
+<code><img height="35" src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png"></code>
+<code><img height="35" src="https://cdn.worldvectorlogo.com/logos/invision-studio-3.svg"></code>
+<code><img height="35" src="https://banner2.cleanpng.com/20180427/zce/kisspng-figma-user-interface-design-designer-logo-apps-design-5ae2b107507599.2852510515248058953296.jpg"></code>
+<code><img height="35" src="https://quiksite.com/wp-content/uploads/2016/09/Nginx-Logo-02.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="35" src="https://code.visualstudio.com/assets/updates/1_35/logo-stable.png"></code>
+<code><img height="35" src="https://www.kindpng.com/picc/m/25-255595_icon-android-studio-logo-hd-png-download.png"></code>
+<code><img height="35" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png"></code>
+<code><img height="35" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/085/square_280/firebaselogo.png"></code>
+<code><img height="35" src="https://miro.medium.com/max/438/1*0G5zu7CnXdMT9pGbYUTQLQ.png"></code>
+<code><img height="35" src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png"></code>
+<code><img height="35" src="https://miro.medium.com/max/700/1*fIjRtO5P8zc3pjs0E5hYkw.png"></code>
+<code><img height="35" src="https://kinsta.com/wp-content/uploads/2018/05/what-is-php-3-1.png"></code>
+<code><img height="35" src="https://cakephp.org/img/trademarks/logo-2.jpg"></code>
+<code><img height="35" src="https://mariadb.org/wp-content/uploads/2019/01/cropped-mariadb_org_rgb_v-2.png"></code>
+<code><img height="35" src="https://developers.redhat.com/sites/default/files/styles/article_feature/public/blog/2014/05/homepage-docker-logo.png?itok=zx0e-vcP"></code>
+<code><img height="35" src="https://bitcoin.org/img/icons/opengraph.png"></code>
+<code><img height="35" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Rxmub8vz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5jd65usaioipnkv5xs5a.png"></code>
+<code><img height="35" src="https://ethereum.org/static/d9cfbc9db0c375cc866bddc606ffb8b4/ece28/ethereum-logo-landscape-purple.png"></code>
 
-- [Blog Post 1](https://yourblog.com/post1): A brief description of your blog post.
-- [Blog Post 2](https://yourblog.com/post2): A brief description of your blog post.
-- [Blog Post 3](https://yourblog.com/post3): A brief description of your blog post.
 
-## 📫 Contact Me
 
-Feel free to reach out to me via email at [your email](mailto:youremail@example.com) or connect with me on [LinkedIn](https://linkedin.com/in/yourprofile).
+![Daksh's github stats](https://github-readme-stats.vercel.app/api?username=dakshp07&&show_icons=true&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919)
 
----
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dakshp07&theme=dark)](https://git.io/streak-stats)
 
-Thanks for visiting my profile! Have a great day! 😄
-```
+![MSL](https://github-readme-stats.vercel.app/api/top-langs/?username=dakshp07&layout=compact&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919)
 
-You can customize the sections with your actual information, such as your email, LinkedIn profile, blog posts, and project links. This README will be displayed on your GitHub profile page, giving visitors an overview of who you are and what you do.
+Do Give A Look To My [Repositories](https://github.com/dakshp07?tab=repositories) And ⭐ It 
