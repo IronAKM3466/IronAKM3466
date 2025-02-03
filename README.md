@@ -11,11 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=vineetbihani&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vineetbihani&theme=radical" alt="Trophies" />
-  </a>
-</p>
+
 
 ---
 
@@ -26,7 +22,7 @@
 - 📫 Reach me at **vineetbihani@example.com**  
 - 💬 Ask me about **Web Development & Backend Scaling**  
 - ⚡ Fun Fact: **I debug better with coffee ☕🔥**  
-<img align="right" width=240 height=160 src="https://media.giphy.com/media/E8OyB7fmX9XSo/giphy.gif" />
+
 
 ---
 
