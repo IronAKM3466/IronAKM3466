@@ -1,46 +1,41 @@
-<div align="center">
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=31&pause=1000&color=ABABAB&center=true&vCenter=true&random=false&width=500&height=100&lines=Hey+%F0%9F%91%8B%2C+I'm+Vineet+Bihani!+🚀" alt="Typing SVG" />
+  </a>
+  <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1613942497/14160/mario_wave.gif?1613942497" width="65">
+</h1>
 
-# 🚀 **Vineet Bihani** 
-**`Full-Stack Developer | Student`**  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/vineetbihani)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/[your-profile])
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/[your-handle])
+<h3 align="center">A 3rd Year Student & Full-Stack Developer</h3>
 
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vineetbihani&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=vineetbihani&theme=radical" alt="Trophies" />
+  </a>
+</p>
 
 ---
 
-### 👨💻 **About Me**
-```diff
-+ Third-year CS student building full-stack magic.
-! Proficient in React, Node.js, Python, and cloud tools.
-# Turning coffee into code since 2020.
-🛠️ Tech Stack
-Frontend
-React
-JavaScript
-Tailwind
+## 🚀 About Me  
+- 🌱 I’m currently learning **AI, Cloud & Scalable Architectures**  
+- 👯 I’m looking to collaborate on **Full-Stack & AI projects**  
+- 🤝 I’m looking for help with **Advanced DevOps & Cloud Deployments**  
+- 📫 Reach me at **vineetbihani@example.com**  
+- 💬 Ask me about **Web Development & Backend Scaling**  
+- ⚡ Fun Fact: **I debug better with coffee ☕🔥**  
+<img align="right" width=240 height=160 src="https://media.giphy.com/media/E8OyB7fmX9XSo/giphy.gif" />
 
-Backend
-Node.js
-Python
-Django
+---
 
-Tools
-Git
-Docker
-MongoDB
-
-🎯 Featured Projects
-Project	Tech Stack	Description
-E-Commerce App	React, Node.js, MongoDB	Full-stack platform with payment integration 💳
-Task Manager API	Express.js, JWT	REST API for productivity tasks 📌
-AI Chatbot	Python, TensorFlow	NLP-powered conversational agent 🤖
-📊 GitHub Stats
-Vineet's GitHub Stats
-
-Streak
-
-📫 Let's Build Something!
-Gmail
-Portfolio
+## 🛠️ Tech Stack  
+```js
+const techStack = {
+   frontend: ["⚛️ React", "💨 Next.js", "🎨 TailwindCSS"],
+   backend: ["🔧 Node.js", "🚀 Express", "🐍 Django"],
+   database: ["🍃 MongoDB", "🐘 PostgreSQL"],
+   other: ["🐳 Docker", "🌎 AWS", "🐙 Git"]
+};
+console.log("🚀 Always learning & building! 🔥");
